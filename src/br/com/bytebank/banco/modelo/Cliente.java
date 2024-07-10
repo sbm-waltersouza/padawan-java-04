@@ -1,4 +1,4 @@
-package br.com.bytebank.banco.modelo;
+package src.br.com.bytebank.banco.modelo;
 //arrumando estrutura
 /**
  * Classe que representa um cliente no Bytebank 

@@ -1,4 +1,4 @@
-package br.com.bytebank.banco.modelo;
+package src.br.com.bytebank.banco.modelo;
 /**
  * Classe que representa a moldura de uma conta
  * 
